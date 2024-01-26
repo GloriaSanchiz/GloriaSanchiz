@@ -14,14 +14,18 @@ Movida a um cafezinho, uma boa música, boas companhias e boas conversas.</h5>
 <h3>A Glória fora dos códigos...</h3>
 <h5>Amo sair e brincar com minha filha, jogar valorant, CS, estar entre a família, sair com os amigos, malhar, curtir um show e fazer um crochê nas horas vagas.</h5>
 
-<h3>Linguagens e Tecnologias </h3>
+<h3>Linguagens</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="VisualStudio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-  <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
+</div>
+
+<h3>Tecnologias</h3>
+<div style="display: inline_block"><br>
+<img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img align="center" alt="VisualStudio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+<img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
 
 </div>
 
